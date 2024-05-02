@@ -1,9 +1,9 @@
-# Simulator_8086_CPP
+# 8086-Simulator-CPP
 
 <html>
 To Run the above project first clone this repository in your environment : 
 
-command : git clone https://github.com/dixit122/Simulator_8086_CPP.git
+command : git clone https://github.com/adijha29/8086-Simulator-CPP.git
 
 installation of makefile tools on your environment :
 
